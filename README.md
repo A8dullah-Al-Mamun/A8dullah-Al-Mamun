@@ -72,8 +72,7 @@ I'm a Full-Stack Developer focused on building modern, secure, and reliable web 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/share/1CzdWHtwZZ/?mibextid=wwXIfr" style="display:inline-block;">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="35" alt="Facebook" />
-  </a>
+  <img src="https://www.svgrepo.com/show/452196/facebook-1.svg" height="40"/>  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/myself_mamun_/?igsh=d2Jsendwand1eTVq&utm_source=qr" style="display:inline-block;">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="35" alt="Instagram" />
@@ -116,7 +115,6 @@ I'm a Full-Stack Developer focused on building modern, secure, and reliable web 
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=A8dullah-Al-Mamun&show_icons=true&hide_border=true&theme=transparent&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&count_private=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A8dullah-Al-Mamun&layout=compact&hide_border=true&theme=transparent&title_color=1f6feb&text_color=8b949e&langs_count=6" alt="Most used languages" />
 </p>
-
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=A8dullah-Al-Mamun&label=Profile%20views&color=1f6feb&style=flat-square" alt="Profile views" />
