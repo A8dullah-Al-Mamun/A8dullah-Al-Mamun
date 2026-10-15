@@ -117,9 +117,11 @@ I'm a Full-Stack Developer focused on building modern, secure, and reliable web 
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/A8dullah-Al-Mamun/A8dullah-Al-Mamun/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A8dullah-Al-Mamun/A8dullah-Al-Mamun/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A8dullah-Al-Mamun/A8dullah-Al-Mamun/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/A8dullah-Al-Mamun/A8dullah-Al-Mamun/output/github-snake.svg" />
+</picture>
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=A8dullah-Al-Mamun&label=Profile%20views&color=1f6feb&style=flat-square" alt="Profile views" />
