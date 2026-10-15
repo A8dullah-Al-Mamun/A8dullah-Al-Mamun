@@ -116,6 +116,11 @@ I'm a Full-Stack Developer focused on building modern, secure, and reliable web 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A8dullah-Al-Mamun&layout=compact&hide_border=true&theme=transparent&title_color=1f6feb&text_color=8b949e&langs_count=6" alt="Most used languages" />
 </p>
 
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A8dullah-Al-Mamun/A8dullah-Al-Mamun/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
+
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=A8dullah-Al-Mamun&label=Profile%20views&color=1f6feb&style=flat-square" alt="Profile views" />
 </p>
