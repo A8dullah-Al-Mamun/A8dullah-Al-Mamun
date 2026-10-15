@@ -1,28 +1,37 @@
-
-name: Generate snake game
+name: Generate Snake Animation
 
 on:
+  # run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
+
+  # allows manual run from the Actions tab
   workflow_dispatch:
+
+  # run on every push to the main branch
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
 jobs:
-  build:
-    name: Generate Snake
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - uses: Sutil/snk@master
-        id: snake-gif
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake2.svg
-          snake_color: '#4493F8'
+          github_user_name: A8dullah-Al-Mamun
+          outputs: |
+            dist/github-snake.svg?color_snake=#4493F8
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#4493F8
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
