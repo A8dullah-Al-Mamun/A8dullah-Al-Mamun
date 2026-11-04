@@ -42,12 +42,11 @@ I'm a Full-Stack Developer focused on building modern, secure, and reliable web 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,firebase&theme=dark&perline=4" height="80" />
 </p>
-
-<!-- <h4 align="center">Version Control & DevOps</h4>
+   <h4 align="center">Version Control & DevOps</h4>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark&perline=4" height="80" />
-</p> -->
+</p>
 
 <h4 align="center">Tools & IDEs</h4>
 
